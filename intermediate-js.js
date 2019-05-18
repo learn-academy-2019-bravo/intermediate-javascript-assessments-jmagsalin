@@ -4,8 +4,9 @@
 
 var originalArray = [1, 2, 3, 4, 5, 6, 7]
 reverseArray = array => {
- var newArr = array.reverse()
- return newArr}
+  var newArr = array.reverse()
+  return newArr
+  }
 
 console.log(reverseArray(originalArray));
 // 2. Given the object below, complete the console.log to find specific information:
